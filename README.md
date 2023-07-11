@@ -1,6 +1,6 @@
-### Hola soy Dante Paladines👋
+<h1>### Hola soy Dante Paladines👋</h1>
 
-Desarrollador FullStack
+<h2>Desarrollador FullStack</h2>
 
 <!--
 **DantePaladines/DantePaladines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
