@@ -41,6 +41,10 @@
   <a href="https://www.linkedin.com/in/dante-paladines-castro-ba6256229/" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="5%" height="8%" />
   </a>
+
+  <a href="https://wa.me/+51916863224" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WhatsApp_Logo.svg/2048px-WhatsApp_Logo.svg.png" width="5%" height="8%" />
+  </a>
   
 </p>
 
