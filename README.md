@@ -45,6 +45,10 @@
   <a href="https://wa.me/+51916863224" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WhatsApp_Logo.svg/2048px-WhatsApp_Logo.svg.png" width="5%" height="8%" />
   </a>
+
+  <a href="djkmecdgm65@gmail.com" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="5%" height="8%" />
+  </a>
   
 </p>
 
