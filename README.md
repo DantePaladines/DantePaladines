@@ -18,6 +18,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" title="javascript" width="5%" height="8%" />
 
+<img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="javascript" width="5%" height="8%" />
+
 <!--
 **DantePaladines/DantePaladines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
