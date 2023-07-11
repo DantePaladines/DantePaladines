@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  Uno de mis proyectos es <a href="https://front-gamezone-production.up.railway.app/" >GameZone</a>
+  Uno de los proyectos que he colaborado <a href="https://front-gamezone-production.up.railway.app/" >GameZone</a>
 </p>
 
 <h2> SKILLS 👨‍🔧 </h2>
