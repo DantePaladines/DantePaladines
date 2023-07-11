@@ -40,6 +40,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="5%" height="8%" />
 </a>
 
+[LinkedIn](https://www.linkedin.com/in/dante-paladines-castro-ba6256229). 
+
 
 <!--
 **DantePaladines/DantePaladines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
