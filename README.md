@@ -30,7 +30,7 @@
 
   <img src="https://logodix.com/logo/1764955.jpg" title="javascript" width="5%" height="8%" />
 
-  <img src="https://www.svgrepo.com/show/330398/express.svg" title="javascript" width="5%" height="8%" backgound="red" />
+  <img src="https://www.svgrepo.com/show/330398/express.svg" title="javascript" width="5%" height="8%" backgound="color : 'red'" />
    
 </p>
 
