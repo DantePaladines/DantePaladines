@@ -6,6 +6,7 @@
 
 <p>
   Soy un entusiasta desarrollador FullStack con una pasión por la creación de aplicaciones web. Mi enfoque principal es aprender y crecer continuamente en el campo     del desarrollo web. Me considero una persona autodidacta, curiosa y comprometida con el aprendizaje. He invertido tiempo en estudiar lenguajes de programación como   HTML, CSS, JavaScript, y también he explorado frameworks y bibliotecas populares como React y Node.js.
+  <br>
   Estoy emocionado por unirme a un equipo de trabajo y colaborar en proyectos reales, donde pueda aplicar mis habilidades y aprender de profesionales con               experiencia. Soy una persona apasionada, orientada a los detalles y con una mentalidad de resolución de problemas.
 </p>
 
