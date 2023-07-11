@@ -37,10 +37,9 @@
 <h2>CONTACTOS 📞📱 </h2>
 
 <p>
-  <a href="www.linkedin.com/in/dante-paladines-castro-ba6256229">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="5%" height="8%"/>
-  </a>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="5%" height="8%">
+    <a href="www.linkedin.com/in/dante-paladines-castro-ba6256229">  </a>
+  </img>
 </p>
 
 <!--
