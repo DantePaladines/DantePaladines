@@ -20,17 +20,17 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" title="javascript"    width="5%" height="8%" />
 
-  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="javascript" width="5%" height="8%" />
+  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="html5" width="5%" height="8%" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" title="javascript" width="5%"   height="8%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" title="css" width="5%"   height="8%" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="javascript" width="5%" height="8%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="react" width="5%" height="8%" />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="javascript" width="5%" height="8%" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="redux" width="5%" height="8%" />
 
-  <img src="https://logodix.com/logo/1764955.jpg" title="javascript" width="5%" height="8%" />
+  <img src="https://logodix.com/logo/1764955.jpg" title="nodejs" width="5%" height="8%" />
 
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="javascript" width="5%"    height="8%" />
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="express" width="5%"    height="8%" />
    
 </p>
 
